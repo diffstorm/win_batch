@@ -10,7 +10,7 @@ REM If the encoded file size is greater than the original file, it removes the e
 REM All the activity log can be found in the log file
 
 REM How to find ffmpeg.exe?
-REM If you are lazy, download and install the encoder from http://www.h264encoder.com/
+REM Download and install the encoder from http://www.h264encoder.com/
 REM That way you do not need to change the ffmpeg path below.
 
 REM 1200k for high quality
